@@ -3,6 +3,10 @@
 ## 📌 Introdução
 O objetivo deste projeto foi realizar uma análise detalhada dos dados de desempenho do jogador LeBron James, utilizando um dataset da NBA disponível no Kaggle. A partir dessa análise, buscamos identificar jogadores cujas estatísticas se aproximam das de LeBron ao longo dos anos, especialmente enquanto ele jogava em diferentes equipes.
 
+## 📖 Estrutura do projeto:
+- **data**: basicamente o dataset utilizado para as análises.
+- **src/notebooks**: código para rodar as análises feito em Python via notebooks.
+
 ## 💡 Motivação
 LeBron James é amplamente reconhecido como um dos maiores jogadores da história da NBA. Este projeto visa explorar seu desempenho ao longo dos anos e compará-lo com outros jogadores que, em momentos específicos, chegaram perto de suas estatísticas. Além disso, foram realizadas análises para entender melhor seu impacto em cada equipe pela qual passou.
 
